@@ -8,4 +8,4 @@
 
 ![markdownICO](https://drive.google.com/uc?id=1gyZoTUM2XNAHxSW948O9ixDBgQeYtuxj)
 ## Live Demo of App
-[ **Original FreeCodeCamp Challenge**](https://react-random-quotes.herokuapp.com/'go to challenge')
+[Rando Quote App](https://www.google.com "Google's Homepage")
