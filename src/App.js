@@ -44,7 +44,7 @@ function App() {
           >
             <span
               style={{ color: mycolor }}
-              className='fa fa-twitter fa-2x'
+              className='fab fa-twitter fa-2x'
             ></span>
           </a>
 
